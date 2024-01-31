@@ -27,7 +27,7 @@ To run this project locally:
    git clone git@github.com:Sahil0402/movies_app.git
    npm install
    npm start
-```
+   ```
 
 
 ## Deployment
