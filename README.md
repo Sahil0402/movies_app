@@ -12,6 +12,7 @@ The Movies Mania is a web application built with React, showcasing a list of mov
 
 ## Technologies Used
 
+- Vite for a faster development experience
 - React
 - Bootstrap
 - axios for API requests
