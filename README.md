@@ -1,4 +1,4 @@
-# Movies App
+# Movies Mania
 
 ## Overview
 
