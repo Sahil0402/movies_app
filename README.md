@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Movies App is a web application built with React, showcasing a list of movies with the capability to view detailed information about each one. It integrates the TVMaze API for dynamic content fetching and includes a feature to book tickets for these movies.
+The Movies Mania is a web application built with React, showcasing a list of movies with the capability to view detailed information about each one. It integrates the TVMaze API for dynamic content fetching and includes a feature to book tickets for these movies.
 
 ## Features
 
