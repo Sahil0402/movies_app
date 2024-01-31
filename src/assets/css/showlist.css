@@ -1,0 +1,27 @@
+.card {
+  /* Ensuring the card has a fixed width can also help in maintaining a uniform size */
+  width: 100%;
+  /* You might want to adjust this based on your design */
+}
+
+.card-img-top {
+  width: 100%; /* Forces image to take up 100% of the card width */
+  height: 450px; /* Sets a fixed height for the image */
+  object-fit: cover; /* Ensures image covers the area, cropping if necessary */
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+}
+
+.card-body {
+  padding: 15px; /* Adjust padding as needed */
+}
+
+.card-title, .card-text {
+  margin-bottom: .75rem;
+}
+
+.btn-primary {
+  width: 100%; /* Makes the button expand to the full width of the card */
+  border-radius: 0; /* Optional: removes the border radius if you prefer */
+  margin-top: auto; /* Pushes the button to the bottom of the card */
+}

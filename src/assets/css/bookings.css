@@ -1,0 +1,16 @@
+/* bookings.css */
+
+/* Customize the look further if needed */
+.list-group-item {
+    background-color: #f8f9fa; /* A light gray background */
+    border: 1px solid #e9ecef; /* A light border color */
+  }
+  
+  .list-group-item h5 {
+    color: #007bff; /* Use the primary color for the show name */
+  }
+  
+  .list-group-item small {
+    color: #6c757d; /* Muted color for the email */
+  }
+  
