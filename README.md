@@ -24,15 +24,10 @@ To run this project locally:
 
 1. Clone the repository:
    ```sh
-   git clone git@github.com:Sahil0402/movies_app.git```
-
-2. Install the dependencies:
-```sh
+   git clone git@github.com:Sahil0402/movies_app.git
    npm install
+   npm start
 ```
-3. Start the application:
-```sh
-npm start```
 
 
 ## Deployment
