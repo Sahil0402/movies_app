@@ -24,7 +24,17 @@ To run this project locally:
 
 1. Clone the repository:
    ```sh
-   git clone git@github.com:Sahil0402/movies_app.git
+   git clone git@github.com:Sahil0402/movies_app.git```
+
+2. Install the dependencies:
+```sh
    npm install
-   npm start
-   ```
+```
+3. Start the application:
+```sh
+npm start```
+
+
+## Deployment
+
+View the deployed application here: [Movies Mania Live](https://tv-shows-6izi9vuv2-sahil0402.vercel.app/)
