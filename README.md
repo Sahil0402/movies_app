@@ -1,8 +1,29 @@
-# React + Vite
+# Movies App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Movies App is a web application built with React, showcasing a list of movies with the capability to view detailed information about each one. It integrates the TVMaze API for dynamic content fetching and includes a feature to book tickets for these movies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Browse a list of movies.
+- View detailed information about each movie.
+- Book tickets for your favorite movies.
+
+## Technologies Used
+
+- React
+- Bootstrap
+- axios for API requests
+- React Router for navigation
+
+## Setup and Run
+
+To run this project locally:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Sahil0402/movies-app.git
+   npm install
+   npm start
+   ```
