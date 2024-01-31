@@ -23,7 +23,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sahil0402/movies-app.git
+   git clone git@github.com:Sahil0402/movies_app.git
    npm install
    npm start
    ```
